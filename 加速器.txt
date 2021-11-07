@@ -1,4 +1,4 @@
 ios::sync_with_stdio(false);
 	cin.tie();
 	cout.tie();
-（放在cin之前就行）
+（放在cin之前就行 ）
